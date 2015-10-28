@@ -1,9 +1,9 @@
 # Flyball Master
 Flyball Scoring and Participant Information
 
-Flyball Master is a new scoring application written for Mac, Windows and Linux. Flyball Master is written with modern software ideals and as such, integration with numerous modern technologies is incorporated.
+Flyball Master is a new scoring application written for Mac, Windows and Linux. Flyball Master is written with modern software tools allowing integration with numerous modern technologies.
 
-Flyball Master allows a Tournament to be conducted within the NAFA rules. Torunement details, club information, teams, schedule, Judges Dashboard, C2 Forms and reports, intra race labels, and an innovative race update web site are available in the current version of Flyball Master.
+Flyball Master runs a Tournament within the NAFA rules. Tournament details, club information, teams, schedule, Judges Dashboard, C2 Forms and reports, intra race labels, and an innovative race update web site are available in the current version of Flyball Master.
 
 Development of the software is being done in NAFA region 13. The software is in development with the first release expected in early 2016.
 
