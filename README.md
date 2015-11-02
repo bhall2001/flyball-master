@@ -14,3 +14,5 @@ Development of the software is being done in NAFA region 13. The software is in 
 This site is used to manage the documentation of the software. A website is in progress and will be posted here shortly.
 
 If you use the software and have any suggestions, please open an issue and we'll have a look at the request/bug.
+
+Flyball Master written with the [Livecode Development Environment] (https://livecode.com/products/livecode-platform/livecode-for-developers/)
