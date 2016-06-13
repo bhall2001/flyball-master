@@ -15,4 +15,4 @@ This site is used to manage the documentation of the software. A website is in p
 
 If you use the software and have any suggestions, please open an issue and we'll have a look at the request/bug.
 
-Flyball Master written with the [Livecode Development Environment] (https://livecode.com/products/livecode-platform/livecode-for-developers/)
+Flyball Master written with the [Livecode Development Environment] (https://livecode.com/)
